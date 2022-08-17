@@ -1,0 +1,124 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+.auto-write{
+    font-family: 'Dancing Script', cursive;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+/* font-family: 'Henny Penny', cursive; */
+
+@font-face {
+	font-family: 'Conthrax Sb';
+	src: url("conthrax-sb.ttf") format("truetype");
+}
+
+.navbar-brand{
+    font-family: 'Conthrax Sb';
+    padding: 30px;
+}
+
+.nav-item{
+    padding: 10px;
+    font-size: 1.4rem;
+    color:white;
+}
+
+.nav-link-active{
+    color: white !important;
+}
+
+.nav-link:hover{
+    color: goldenrod !important;
+}
+
+body {
+    font-size: 1.2rem !important;
+    line-height: 2rem !important;
+}
+
+.btn-outline-warning:hover{
+    font-weight: bold !important;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'Conthrax Sb';
+    font-weight: 900;
+    font-size: 2.5rem !important;
+    padding-bottom: 50px;
+}
+
+h4{
+    padding-top: 10px;
+}
+
+.red{
+    color: red;
+}
+
+section{
+    padding: 100px;
+}
+
+.intro{
+    background-color: aqua;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+}
+
+.stack{
+    background-color: violet;
+}
+
+.competences{
+    padding-top: 30px;
+}
+
+.btn-primary{
+    margin: 10px;
+}
+
+.btn-primary:hover{
+    background-color:blueviolet !important;
+    border: none;
+}
+
+.projects{
+    background-color: rgb(25, 25, 25);
+}
+
+.real{
+    color: white;
+}
+
+.card{
+    margin-bottom: 50px !important;
+}
+
+.qui{background-color: salmon;}
+
+.contact{
+    background-color:navajowhite;
+}
+
+.precision{
+    font-size: 1rem;
+}
+
+.me{
+    margin-top: 30px;
+}
+
+.fa-brands{
+    font-size: 3rem;
+    padding:10px;
+    color:black;
+}
+
+.fa-brands:hover, .follow{
+    color: goldenrod;
+}
+
